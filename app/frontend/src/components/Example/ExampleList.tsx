@@ -12,7 +12,7 @@ const EXAMPLES: ExampleModel[] = [
         text: "How does green power help the environment? ",
         value: "How does green power help the environment? "
     },
-    { text: "How could i reduce my energy consumption?", value: "How could i reduce my energy consumption?" },
+    { text: "How can I reduce my energy consumption?", value: "How can I reduce my energy consumption?" },
     { text: "What are some energy saving opportunities?", value: "What are some energy saving opportunities?" }
 ];
 
