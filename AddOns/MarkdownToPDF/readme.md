@@ -2,5 +2,5 @@ This script uses the pypandoc library to convert each markdown file to a separat
 
 You will need to replace the placeholders in the connection strings and container names with your actual values.
 
-How to find the Storage Account connection string:
+##How to find the Storage Account connection string:
 ![image](https://github.com/DarrenTurchiarelli/azure-search-openai-demo/assets/107463700/411eb9b4-68d7-4105-9223-e9b6900e3021)
